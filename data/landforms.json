@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "type": "Hills",
+        "color": "#2f7551"
+    },
+    {
+        "id": 1,
+        "type": "Mountains",
+        "color": "#47DA74"
+    },
+    {
+        "id": 2,
+        "type": "Jungle",
+        "color": "#29ab87"
+    },
+    {
+        "id": 3,
+        "type": "Forest",
+        "color": "#228b22"
+    },
+    {
+        "id": 4,
+        "type": "Desert",
+        "color": "#EDC9AF"
+    },
+    {
+        "id": 5,
+        "type": "Plain",
+        "color": "#c0ff6d"
+    },
+    {
+        "id": 6,
+        "type": "Island",
+        "color": "#FAEA63"
+    },
+    {
+        "id": 7,
+        "type": "Marshes",
+        "color": "#5c5337"
+    },
+    {
+        "id": 8,
+        "type": "Ocean",
+        "color": "#006994"
+    },
+    {
+        "id": 9,
+        "type": "Sea",
+        "color": "#006994"
+    }
+]
